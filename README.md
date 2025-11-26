@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou estudante do 2º semestre de Ciências da Computação na UFC (Universidade Federal do Ceará). Tenho grande interesse nas áreas de desenvolvimento de software, e Cibersegurança (hacking ético). Atualmente estou realizando projetos CRUD e Apis no framework Django (python).
+Sou estudante do 2º semestre de Ciências da Computação na UFC (Universidade Federal do Ceará). Tenho grande interesse nas áreas de desenvolvimento de software, e Cibersegurança (hacking ético). Atualmente estou realizando projetos CRUD e Apis no framework Django (python). Sou também um forte entusiasta de programação competitiva, contribuindo para a construção de base sólida em algoritmos e estrutura de dados implementadas em C++ 
 
 I am a second-semester Computer Science student at UFC (Federal University of Ceará). I have a strong interest in software development and cybersecurity (ethical hacking). I am currently working on CRUD and API projects using the Django framework (Python).
 
@@ -48,14 +48,7 @@ I am a second-semester Computer Science student at UFC (Federal University of Ce
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 </p>
 
----
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davinoroes&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinoroes&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
