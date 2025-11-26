@@ -53,4 +53,4 @@ I am a second-semester Computer Science student at UFC (Federal University of Ce
 ---
 
 ## 📫 Contato
-**📧 Email:** SEU_EMAIL  
+**📧 Email:** davinoroes1918@gmail.com 
