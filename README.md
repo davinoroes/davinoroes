@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**davinoroes/davinoroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Olá, eu sou o Davi!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de Ciência da Computação | Programador Backend | Entusiasta em Segurança da informação
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre Mim
+
+Sou estudante do 2º semestre de Ciências da Computação na UFC (Universidade Federal do Ceará). Tenho grande interesse nas áreas de desenvolvimento de software, e Cibersegurança (hacking ético). Atualmente estou realizando projetos CRUD e Apis no framework Django (python).
+
+I am a second-semester Computer Science student at UFC (Federal University of Ceará). I have a strong interest in software development and cybersecurity (ethical hacking). I am currently working on CRUD and API projects using the Django framework (Python).
+
+---
+
+## 🔗 Minhas Redes/Social Media
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/davi-norões-67bb9423b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/davinoroes_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Habilidades & Stacks
+
+### **Linguagens**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  
+</p>
+
+### **Stacks**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davinoroes&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinoroes&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+**📧 Email:** SEU_EMAIL  
