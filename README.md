@@ -26,7 +26,17 @@ I am a second-semester Computer Science student at UFC (Federal University of Ce
   <a href="https://www.instagram.com/davinoroes_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
+  <a href="https://leetcode.com/u/davinoroes/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="/>
+  </a>
+
+  <a href="https://codeforces.com/profile/davinoroes_" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"/>
+  </a>
+
 </p>
+
 
 ---
 
