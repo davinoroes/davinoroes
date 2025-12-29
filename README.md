@@ -3,7 +3,7 @@
 <h1 align="center">👋 Olá, eu sou o Davi!</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação | Programador Backend | Entusiasta em Segurança da informação
+  Estudante de Ciência da Computação | Desenvolvedor Backend | Entusiasta em Segurança da informação
 </p>
 
 ---
