@@ -58,6 +58,7 @@ I am a second-semester Computer Science student at UFC (Federal University of Ce
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
 </p>
 
 
