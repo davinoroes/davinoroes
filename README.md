@@ -12,7 +12,7 @@
 
 Sou estudante do 3º semestre de Ciências da Computação na UFC (Universidade Federal do Ceará). Tenho grande interesse nas áreas de desenvolvimento de software, e Cibersegurança (hacking ético). Atualmente estou realizando projetos CRUD e Apis no framework Django (python). Sou também um forte entusiasta de programação competitiva, contribuindo para a construção de base sólida em algoritmos e estrutura de dados implementadas em C++. 
 
-I am a second-semester Computer Science student at UFC (Federal University of Ceará). I have a strong interest in software development and cybersecurity (ethical hacking). I am currently working on CRUD and API projects using the Django framework (Python). I am also a strong enthusiast of competitive programming, contributing to building a solid foundation in innovative algorithms and data structures in C++.
+I am a third-semester Computer Science student at UFC (Federal University of Ceará). I have a strong interest in software development and cybersecurity (ethical hacking). I am currently working on CRUD and API projects using the Django framework (Python). I am also a strong enthusiast of competitive programming, contributing to building a solid foundation in innovative algorithms and data structures in C++.
 
 ---
 
